@@ -1,0 +1,1 @@
+const String yandexMapApiKey = 'b112f7bd-840b-483e-a0f3-e2805145b468';
