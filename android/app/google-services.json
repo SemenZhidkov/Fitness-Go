@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "526292047665",
+    "firebase_url": "https://fitnessgo-9b5aa-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fitnessgo-9b5aa",
+    "storage_bucket": "fitnessgo-9b5aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526292047665:android:10721e86b6d2e8ea4a8210",
+        "android_client_info": {
+          "package_name": "com.geodev.fitnessgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFUwc8PG46UP8zq_M9sEk4lmM023KzWXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
